@@ -1,0 +1,13 @@
+name: JumpWorld
+main: I_Cant_Code\JumpWorld\Main
+version: 0.0.1
+api: 3.6.1
+load: POSTWORLD
+author: I_Cant_Code
+commands:
+    jump:
+      usage: "/jump"
+      description: "Teleports you to a world name."
+    create:
+      usage: "/create"
+      description: "Creates a void world"
